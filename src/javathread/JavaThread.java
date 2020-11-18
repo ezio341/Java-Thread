@@ -5,6 +5,8 @@
  */
 package javathread;
 
+import tugas.TimeUI;
+
 /**
  *
  * @author ASUS
@@ -16,6 +18,7 @@ public class JavaThread {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        TimeUI.main(args);
     }
     
 }
